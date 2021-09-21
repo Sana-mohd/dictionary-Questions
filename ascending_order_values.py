@@ -10,5 +10,5 @@ for i in sorted_values:
 
 print(sorted_dict)
 
-for x in sorted(dict1.values()):
-    print(x)
+# for x in sorted(dict1.values()):
+#     print(x)
